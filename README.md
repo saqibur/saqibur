@@ -1,5 +1,5 @@
 <div align="center">
-<h4>Hi there 👋, I'm Saqibur Rahman, a software engineer and Python developer from <strong>Dhaka, Bangladesh</strong></h4>
+<h4>Hi there 👋, I'm Saqibur Rahman, a software engineer from <strong>Dhaka, Bangladesh</strong></h4>
 </div>
 
 <div align="center">
