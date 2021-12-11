@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
+<h4>Hi there 👋, I'm Saqibur Rahman, Software Engineer and Python Developer from <strong>Dhaka, Bangladesh</strong></h4>
+</div>
 
-<!--
-**saqibur/saqibur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3>Socials</h3>
+  <a href="https://saqibur.com/" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/saqibur" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+</div>
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>Development</h3>
+  <img src="https://raw.githubusercontent.com/saqibur/website-design-resources/master/images/icons/python.svg" width="100">
+  <img src="https://raw.githubusercontent.com/saqibur/website-design-resources/master/images/icons/django.svg" width="100">
+  <img src="https://github.com/saqibur/website-design-resources/blob/master/images/icons/flask.svg" width="100">
+  <img src="https://raw.githubusercontent.com/saqibur/website-design-resources/master/images/icons/godot.svg" width="100">
+</div>
