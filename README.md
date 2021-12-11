@@ -14,7 +14,7 @@
 <br />
 
 <div align="center">
-  <h3>Development</h3>
+  <h3>Stack</h3>
   <img src="https://raw.githubusercontent.com/saqibur/website-design-resources/master/images/icons/python.svg" width="100">
   <img src="https://raw.githubusercontent.com/saqibur/website-design-resources/master/images/icons/django.svg" width="100">
   <img src="https://github.com/saqibur/website-design-resources/blob/master/images/icons/flask.svg" width="100">
