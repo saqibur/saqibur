@@ -13,10 +13,8 @@
 </div>
 <br />
 
-<div align="center">
-  <h3>Stack</h3>
-  <img src="https://raw.githubusercontent.com/saqibur/website-design-resources/master/images/icons/python.svg" width="100">
-  <img src="https://raw.githubusercontent.com/saqibur/website-design-resources/master/images/icons/django.svg" width="100">
-  <img src="https://github.com/saqibur/website-design-resources/blob/master/images/icons/flask.svg" width="100">
-  <img src="https://raw.githubusercontent.com/saqibur/website-design-resources/master/images/icons/godot.svg" width="100">
-</div>
+## Useful Links
+* [Academic Torrents](https://academictorrents.com/)- For downloading educational and research content
+* [OpenGameArt](https://opengameart.org/) - For downloading user-created free game resources
+* [Snap: Standford Network Analysis Project](https://snap.stanford.edu/) - For the love of directed and undirected graphs
+* [FastAI](https://www.fast.ai/) - For studying about artificial intelligence
