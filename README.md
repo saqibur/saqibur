@@ -12,9 +12,3 @@
   </a>
 </div>
 <br />
-
-## Useful Links
-* [Academic Torrents](https://academictorrents.com/)- For downloading educational and research content
-* [OpenGameArt](https://opengameart.org/) - For downloading user-created free game resources
-* [Snap: Standford Network Analysis Project](https://snap.stanford.edu/) - For the love of directed and undirected graphs
-* [FastAI](https://www.fast.ai/) - For studying about artificial intelligence
