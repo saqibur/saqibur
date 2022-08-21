@@ -14,5 +14,5 @@
 <br />
 
 <div align="center">
-  <a href="https://gist.github.com/saqibur/02981989495614662b224021576ea83c">Useful Links Gist</a>
+  <a href="https://gist.github.com/saqibur">Gists</a>
 </div>
