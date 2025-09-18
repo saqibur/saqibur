@@ -1,6 +1,8 @@
 <div>
 <h4>Hi there 👋, I'm Saqibur Rahman, a software engineer from <strong>Dhaka, Bangladesh</strong></h4>
-  <p>Senior Software Engineer with 5+ years of experience in backend development, software architecture, and team leadership. Proven expertise in Python, Django, and AWS, delivering scalable solutions across travel, healthcare, education, forestry, and energy sectors. Experienced in leading cross-functional teams, mentoring engineers, and driving projects from requirements through to deployment.
+  <p>As a senior software engineer with 5+ years in the software development industry, specializing in backend technologies, I've developed a diverse skill set, encompassing roles such as a technical project manager and a technical lead, where I excel in orchestrating cross-functional teams to deliver high-quality software solutions.
+
+Over the course of my career, I have successfully managed and launched 10+ impactful projects across education, medical, and travel industries - 3 of which harness LLMs to power generative AI solutions for an enhanced customer experience.
 
 Beyond my coding capabilities, I excel in communication, making the intricate details of software development accessible to both technical and non-technical stakeholders across the board.
 
