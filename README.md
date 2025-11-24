@@ -1,6 +1,6 @@
 <div>
 <h4>Hi there 👋, I'm Saqibur Rahman, a software engineer from <strong>Dhaka, Bangladesh</strong></h4>
-  <p>As a senior software engineer with 5+ years in the software development industry, specializing in backend technologies, I've developed a diverse skill set, encompassing roles such as a technical project manager and a technical lead, where I excel in orchestrating cross-functional teams to deliver high-quality software solutions.
+  <p>As a senior software engineer with 6+ years in the software development industry, specializing in backend technologies, I've developed a diverse skill set, encompassing roles such as a technical project manager and a technical lead, where I excel in orchestrating cross-functional teams to deliver high-quality software solutions.
 
 Over the course of my career, I have successfully managed and launched 10+ impactful projects across education, medical, and travel industries - 3 of which harness LLMs to power generative AI solutions for an enhanced customer experience.
 
