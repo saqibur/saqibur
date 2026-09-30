@@ -1,27 +1,31 @@
-<div>
-<h4>Hi there 👋, I'm Saqibur Rahman, a software engineer from <strong>Dhaka, Bangladesh</strong></h4>
-  <p>As a senior software engineer with 6+ years in the software development industry, specializing in backend technologies, I've developed a diverse skill set, encompassing roles such as a technical project manager and a technical lead, where I excel in orchestrating cross-functional teams to deliver high-quality software solutions.
+# Saqibur Rahman
 
-Over the course of my career, I have successfully managed and launched 10+ impactful projects across education, medical, and travel industries - 3 of which harness LLMs to power generative AI solutions for an enhanced customer experience.
+Senior backend engineer in Dhaka, Bangladesh. 6+ years building Python and Django systems. For the past 3 years I've led cross-functional teams across Sweden and Bangladesh at Strativ AB, taking projects from architecture to production.
 
-Beyond my coding capabilities, I excel in communication, making the intricate details of software development accessible to both technical and non-technical stakeholders across the board.
+## What I build
 
-One of the highlights of my professional journey has been the opportunity to collaborate with engineers across the globe including Sweden, Switzerland, Japan, Thailand, USA and of course Bangladesh!
+- Backends in Django, Django REST Framework and FastAPI
+- Data and image-processing pipelines on AWS (Step Functions, Lambda, ECS)
+- Event-driven integrations on EventBridge and SQS
+- LLM features backed by custom knowledge bases
 
-Alongside my technical roles, I've been fortunate to take on the role of a mentor. Over the course of my journey, I've had the privilege of guiding and nurturing the growth of more than 20 engineers.</p>
-</div>
+## Selected work
 
-<div align="center">
-  <h3>Socials</h3>
-  <a href="https://saqibur.com/" target="_blank">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/saqibur" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-</div>
-<br />
+- **LumberScan:** Scaled a Step Functions workflow from 4GB to 100GB+ datasets by moving memory-heavy steps to disk, taking throughput from 800 to 4,500+ image datasets. Reworked report and image pipelines to support coordinate systems beyond SWEREF99, which let 98 new companies in 15 countries onboard. Added pytest and Playwright to CI, cutting post-deploy verification from 2 hours to 5-10 minutes.
+- **Boo Energi:** Architected the sync of 3M+ monthly energy readings from 4,000+ sites for B2B reporting.
+- **Basic-Safety:** Built an AI-driven safety training platform and an LLM chatbot for 2,000+ students across 30+ companies.
+- **Lab integration:** Designed an event-driven system on EventBridge, SQS and Django that syncs lab results and samples across medical centers in real time.
+- **Vaccina:** Led maintenance and upgrades of a medical journaling system serving 1 million patients.
 
-<div align="center">
-  <a href="https://gist.github.com/saqibur">Gists</a>
-</div>
+## Open source
+
+- [django-project-structure](https://github.com/saqibur/django-project-structure): Django + DRF project template, 160+ stars.
+- [tuxedo](https://github.com/saqibur/tuxedo): my Python/Django style guide.
+
+## Stack
+
+Python, TypeScript, Django, DRF, FastAPI, Next.js, React, PostgreSQL, DynamoDB, MongoDB, AWS, Docker
+
+## Elsewhere
+
+[saqibur.com](https://saqibur.com) · [LinkedIn](https://linkedin.com/in/saqibur)
